@@ -64,9 +64,12 @@ By the end of the semester, students will be able to:
 
 ## Required Software
 
+This course requires the use of the following statistical and typesetting software:
+
+- R (http://cran.us.r-project.org) is a free programming language for statistical computing, graphics, and machine learning. RStudio is a free IDE for R (https://posit.co/downloads/).
 - Python (NumPy, SciPy, scikit-learn, PyTorch or equivalent)
-- Command-line interface
-- Docker (or equivalent)
+
+
 
 ---
 
