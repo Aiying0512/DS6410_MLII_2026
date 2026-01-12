@@ -70,12 +70,11 @@ This course requires the use of the following statistical and typesetting softwa
 - Python (NumPy, SciPy, scikit-learn, PyTorch or equivalent)
 
 
-
 ---
 
 ## Learning Resources
 
-### Required Textbooks / Course Materials
+### Required Textbooks 
 
 1. **Efron & Hastie**  
    *Computer Age Statistical Inference: Algorithms, Evidence, and Data Science*
@@ -89,6 +88,11 @@ This course requires the use of the following statistical and typesetting softwa
    Free online: https://web.stanford.edu/~hastie/ElemStatLearn/
 
 4. Relevant review papers and tutorials provided throughout the semester
+
+## Course Materials
+- [Slides](slides/)
+- [Assignments](assignments/)
+
 
 ---
 
