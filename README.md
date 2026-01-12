@@ -90,6 +90,7 @@ This course requires the use of the following statistical and typesetting softwa
 4. Relevant review papers and tutorials provided throughout the semester
 
 ## Course Materials
+- [Course Schedule](schedule.md)
 - [Slides](slides/)
 - [Assignments](assignments/)
 
