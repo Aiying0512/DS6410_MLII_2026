@@ -22,12 +22,12 @@ Aiying Zhang
 Assistant Professor, School of Data Science  
 Email: xsa5db@virginia.edu  
 Office: SDS 330  
-Office Hours: TBD  
+Office Hours: M 11am - 12pm 
 
 **Teaching Assistant**  
 Yuyang Cheng  
 Email: jrm9ga@virginia.edu  
-Office Hours: TBD  
+Office Hours: W 11am - 12pm
 
 ---
 
