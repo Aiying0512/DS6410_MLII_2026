@@ -76,16 +76,17 @@ This course requires the use of the following statistical and typesetting softwa
 
 ### Required Textbooks 
 
-1. **Efron & Hastie**  
+1. **Efron & Hastie**  [CASI]
    *Computer Age Statistical Inference: Algorithms, Evidence, and Data Science*
+   Free online: https://hastie.su.domains/CASI/
 
-2. **James, Witten, Hastie, Tibshirani (2nd ed.)**  
-   *An Introduction to Statistical Learning*  
-   Free online: https://www.statlearning.com/
-
-3. **Hastie, Tibshirani, Friedman (2nd ed.)**  
+2. **Hastie, Tibshirani, Friedman (2nd ed.)**  [ESI]
    *The Elements of Statistical Learning*  
    Free online: https://web.stanford.edu/~hastie/ElemStatLearn/
+
+3. **James, Witten, Hastie, Tibshirani (2nd ed.)**  
+   *An Introduction to Statistical Learning*  
+   Free online: https://www.statlearning.com/
 
 4. Relevant review papers and tutorials provided throughout the semester
 
