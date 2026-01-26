@@ -6,4 +6,4 @@
 | 2 | Jan 15 | Wed | Lecture 1. Overview of Supervised Learning | ESL Chap 2 | [Lec 1](slides/Lecture1.pdf) |
 | - | Jan 19 | Mon | MLK Day, No class | |  |
 | 3 | Jan 21 | Wed | Lecture 2. Generalized Linear Models  | |  [Lec 2](slides/Lecture2.pdf)|
-| 4 | Jan 26 | Mon | No inperson-class, Self-reading, homework & lab coding  |[Reading 1](slides/Reading_1.pdf) | [HW 1](assignments/HW1.pdf) |
+| 4 | Jan 26 | Mon | No inperson-class, Self-reading, homework & lab coding  |[Reading 1](slides/Reading_1.pdf) [Lab 1](slides/Lab1_selflearning.qmd) | [HW 1](assignments/HW1.pdf) |
