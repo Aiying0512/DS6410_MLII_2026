@@ -82,16 +82,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#mini-lecture-why-link-functions-matter-in-binomial-glms" id="toc-mini-lecture-why-link-functions-matter-in-binomial-glms" class="nav-link active" data-scroll-target="#mini-lecture-why-link-functions-matter-in-binomial-glms"><span class="header-section-number">1</span> 1. Mini-lecture: Why link functions matter in binomial GLMs</a>
+  <li><a href="#mini-lecture-why-link-functions-matter-in-binomial-glms" id="toc-mini-lecture-why-link-functions-matter-in-binomial-glms" class="nav-link active" data-scroll-target="#mini-lecture-why-link-functions-matter-in-binomial-glms"><span class="header-section-number">1</span> Mini-lecture: Why link functions matter in binomial GLMs</a>
   <ul class="collapse">
-  <li><a href="#choice-of-link-for-binomial-regression-models" id="toc-choice-of-link-for-binomial-regression-models" class="nav-link" data-scroll-target="#choice-of-link-for-binomial-regression-models"><span class="header-section-number">1.1</span> 1.1 Choice of link for binomial regression models</a></li>
-  <li><a href="#compare-inverse-links-g-1eta-directly" id="toc-compare-inverse-links-g-1eta-directly" class="nav-link" data-scroll-target="#compare-inverse-links-g-1eta-directly"><span class="header-section-number">1.2</span> 1.2 Compare inverse links <span class="math inline">\(g^{-1}(\eta)\)</span> directly</a></li>
-  <li><a href="#blisss-beetles-example" id="toc-blisss-beetles-example" class="nav-link" data-scroll-target="#blisss-beetles-example"><span class="header-section-number">1.3</span> 1.3 Bliss’s Beetles Example</a></li>
+  <li><a href="#choice-of-link-for-binomial-regression-models" id="toc-choice-of-link-for-binomial-regression-models" class="nav-link" data-scroll-target="#choice-of-link-for-binomial-regression-models"><span class="header-section-number">1.1</span> Choice of link for binomial regression models</a></li>
+  <li><a href="#compare-inverse-links-g-1eta-directly" id="toc-compare-inverse-links-g-1eta-directly" class="nav-link" data-scroll-target="#compare-inverse-links-g-1eta-directly"><span class="header-section-number">1.2</span> Compare inverse links <span class="math inline">\(g^{-1}(\eta)\)</span> directly</a></li>
+  <li><a href="#blisss-beetles-example" id="toc-blisss-beetles-example" class="nav-link" data-scroll-target="#blisss-beetles-example"><span class="header-section-number">1.3</span> Bliss’s Beetles Example</a></li>
   </ul></li>
-  <li><a href="#overdispersion-correlated-binary-observations" id="toc-overdispersion-correlated-binary-observations" class="nav-link" data-scroll-target="#overdispersion-correlated-binary-observations"><span class="header-section-number">2</span> 2 Overdispersion: Correlated Binary Observations</a>
+  <li><a href="#overdispersion-correlated-binary-observations" id="toc-overdispersion-correlated-binary-observations" class="nav-link" data-scroll-target="#overdispersion-correlated-binary-observations"><span class="header-section-number">2</span> Overdispersion: Correlated Binary Observations</a>
   <ul class="collapse">
-  <li><a href="#correlated-binary-outcomes-and-intraclass-correlation" id="toc-correlated-binary-outcomes-and-intraclass-correlation" class="nav-link" data-scroll-target="#correlated-binary-outcomes-and-intraclass-correlation"><span class="header-section-number">2.1</span> 2.1 Correlated binary outcomes and intraclass correlation</a></li>
-  <li><a href="#mixture-models-beta-binomial-models" id="toc-mixture-models-beta-binomial-models" class="nav-link" data-scroll-target="#mixture-models-beta-binomial-models"><span class="header-section-number">2.2</span> 2.2 Mixture models: Beta-binomial models</a></li>
+  <li><a href="#correlated-binary-outcomes-and-intraclass-correlation" id="toc-correlated-binary-outcomes-and-intraclass-correlation" class="nav-link" data-scroll-target="#correlated-binary-outcomes-and-intraclass-correlation"><span class="header-section-number">2.1</span> Correlated binary outcomes and intraclass correlation</a></li>
+  <li><a href="#mixture-models-beta-binomial-models" id="toc-mixture-models-beta-binomial-models" class="nav-link" data-scroll-target="#mixture-models-beta-binomial-models"><span class="header-section-number">2.2</span> Mixture models: Beta-binomial models</a></li>
   <li><a href="#example-avss-data-overdispersion-in-litter-studies" id="toc-example-avss-data-overdispersion-in-litter-studies" class="nav-link" data-scroll-target="#example-avss-data-overdispersion-in-litter-studies"><span class="header-section-number">2.3</span> Example: AVSS Data (Overdispersion in Litter Studies)</a></li>
   </ul></li>
   </ul>
@@ -123,9 +123,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 <section id="mini-lecture-why-link-functions-matter-in-binomial-glms" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="mini-lecture-why-link-functions-matter-in-binomial-glms"><span class="header-section-number">1</span> 1. Mini-lecture: Why link functions matter in binomial GLMs</h2>
+<h2 data-number="1" class="anchored" data-anchor-id="mini-lecture-why-link-functions-matter-in-binomial-glms"><span class="header-section-number">1</span> Mini-lecture: Why link functions matter in binomial GLMs</h2>
 <section id="choice-of-link-for-binomial-regression-models" class="level3" data-number="1.1">
-<h3 data-number="1.1" class="anchored" data-anchor-id="choice-of-link-for-binomial-regression-models"><span class="header-section-number">1.1</span> 1.1 Choice of link for binomial regression models</h3>
+<h3 data-number="1.1" class="anchored" data-anchor-id="choice-of-link-for-binomial-regression-models"><span class="header-section-number">1.1</span> Choice of link for binomial regression models</h3>
 <p>Consider independent responses <span class="math inline">\((Y_1,\dots,Y_n)\)</span> where each <span class="math inline">\(Y_i \sim \mathrm{Bin}(m_i,\pi_i), i=1,\dots,n,\)</span> with binomial size (<span class="math inline">\(m_i\)</span>) (number of trials) and success probability <span class="math inline">\((\pi\_i\in(0,1))\)</span>.</p>
 <p>A generalized linear model (GLM) relates <span class="math inline">\((\pi\_i)\)</span> to predictors through a <strong>linear predictor</strong> <span class="math display">\[ \eta_i = x_i^T\beta = \beta_0 + \beta_1 x_i \quad (\text{simple case}),\]</span> and a <strong>link function</strong> <span class="math inline">\(g(\cdot): g(\pi_i) = \eta_i.\)</span></p>
 <section id="identity-link-pieta" class="level4" data-number="1.1.1">
@@ -158,7 +158,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 </section>
 <section id="compare-inverse-links-g-1eta-directly" class="level3" data-number="1.2">
-<h3 data-number="1.2" class="anchored" data-anchor-id="compare-inverse-links-g-1eta-directly"><span class="header-section-number">1.2</span> 1.2 Compare inverse links <span class="math inline">\(g^{-1}(\eta)\)</span> directly</h3>
+<h3 data-number="1.2" class="anchored" data-anchor-id="compare-inverse-links-g-1eta-directly"><span class="header-section-number">1.2</span> Compare inverse links <span class="math inline">\(g^{-1}(\eta)\)</span> directly</h3>
 <p>In this section we compare the shapes of inverse links as functions of <span class="math inline">\(\eta\)</span>.</p>
 <ul>
 <li>Logit inverse: <span class="math inline">\(g^{-1}(\eta)=\mathrm{expit}(\eta)\)</span></li>
@@ -205,7 +205,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>-Cloglog is asymmetric: it approaches 0 and 1 at different rates, which can be useful when the response is skewed (e.g., rare events).</p>
 </section>
 <section id="blisss-beetles-example" class="level3" data-number="1.3">
-<h3 data-number="1.3" class="anchored" data-anchor-id="blisss-beetles-example"><span class="header-section-number">1.3</span> 1.3 Bliss’s Beetles Example</h3>
+<h3 data-number="1.3" class="anchored" data-anchor-id="blisss-beetles-example"><span class="header-section-number">1.3</span> Bliss’s Beetles Example</h3>
 <p>This example, taken from Agresti (2002), concerns results of a toxicology experiment originally reported by Bliss (1935). The data report the number of beetles killed after exposure to gaseous carbon disulfide at various concentrations.</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>beetles <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(</span>
@@ -381,14 +381,14 @@ Number of Fisher Scoring iterations: 4</code></pre>
 </section>
 </section>
 <section id="overdispersion-correlated-binary-observations" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="overdispersion-correlated-binary-observations"><span class="header-section-number">2</span> 2 Overdispersion: Correlated Binary Observations</h2>
+<h2 data-number="2" class="anchored" data-anchor-id="overdispersion-correlated-binary-observations"><span class="header-section-number">2</span> Overdispersion: Correlated Binary Observations</h2>
 <p>In a standard binomial model, we assume that conditional on the success probability (), the individual binary outcomes are <strong>independent</strong>. Under this assumption, <span class="math display">\[
 Y \sim \mathrm{Bin}(m, \pi)
 \quad \Longrightarrow \quad
 \mathrm{Var}(Y) = m\pi(1-\pi).\]</span></p>
 <p>In practice, binomial data often exhibit <strong>overdispersion</strong>, meaning that the observed variance of (Y) is larger than the binomial variance. A common explanation is the presence of <strong>unobserved heterogeneity</strong> or <strong>correlation</strong> among the binary trials.</p>
 <section id="correlated-binary-outcomes-and-intraclass-correlation" class="level3" data-number="2.1">
-<h3 data-number="2.1" class="anchored" data-anchor-id="correlated-binary-outcomes-and-intraclass-correlation"><span class="header-section-number">2.1</span> 2.1 Correlated binary outcomes and intraclass correlation</h3>
+<h3 data-number="2.1" class="anchored" data-anchor-id="correlated-binary-outcomes-and-intraclass-correlation"><span class="header-section-number">2.1</span> Correlated binary outcomes and intraclass correlation</h3>
 <p>Suppose <span class="math display">\[
 Y = \sum_{j=1}^m Z_j,
 \]</span> where <span class="math inline">\(Z_1,\dots,Z_m\)</span> are <strong>exchangeable</strong> Bernoulli random variables: <span class="math display">\[
@@ -414,7 +414,7 @@ P(Z_j = 1) = \pi, \qquad j = 1,\dots,m.
 <p>When <span class="math inline">\(\rho &gt; 0\)</span>, the variance exceeds the binomial variance, producing <strong>overdispersion</strong>. Even small correlations can have a large impact when <span class="math inline">\(m\)</span> is moderate or large.</p>
 </section>
 <section id="mixture-models-beta-binomial-models" class="level3" data-number="2.2">
-<h3 data-number="2.2" class="anchored" data-anchor-id="mixture-models-beta-binomial-models"><span class="header-section-number">2.2</span> 2.2 Mixture models: Beta-binomial models</h3>
+<h3 data-number="2.2" class="anchored" data-anchor-id="mixture-models-beta-binomial-models"><span class="header-section-number">2.2</span> Mixture models: Beta-binomial models</h3>
 <p>Suppose the success probability (p) itself is random: <span class="math inline">\(p \sim G, \qquad E(p)=\pi,\)</span> and conditional on <span class="math inline">\(p\)</span>, <span class="math display">\[Z_1,\dots,Z_m \mid p \;\stackrel{\text{i.i.d.}}{\sim}\; \mathrm{Bernoulli}(p).\]</span></p>
 <p>Then marginally, <span class="math inline">\(P(Z_j=1) = E(p)=\pi,\)</span> but the binary variables are <strong>correlated</strong>: <span class="math inline">\(\mathrm{Cov}(Z_1,Z_2) = \mathrm{Var}(p).\)</span></p>
 <p>The intraclass correlation becomes <span class="math display">\[

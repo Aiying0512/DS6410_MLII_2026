@@ -12,9 +12,9 @@ execute:
   message: false
 ---
 
-## 1. Mini-lecture: Why link functions matter in binomial GLMs
+##  Mini-lecture: Why link functions matter in binomial GLMs
 
-### 1.1 Choice of link for binomial regression models
+### Choice of link for binomial regression models
 
 Consider independent responses $(Y_1,\dots,Y_n)$ where each $Y_i \sim \mathrm{Bin}(m_i,\pi_i), i=1,\dots,n,$ with binomial size ($m_i$) (number of trials) and success probability $(\pi\_i\in(0,1))$.
 
@@ -60,7 +60,7 @@ If $F_0$ is an extreme value (Gumbel-type) CDF, one obtains $$ \pi(x)=1-\exp\lef
 
 ------------------------------------------------------------------------
 
-### 1.2 Compare inverse links $g^{-1}(\eta)$ directly
+### Compare inverse links $g^{-1}(\eta)$ directly
 
 In this section we compare the shapes of inverse links as functions of $\eta$.
 
@@ -112,7 +112,7 @@ Interpretation
 
 -Cloglog is asymmetric: it approaches 0 and 1 at different rates, which can be useful when the response is skewed (e.g., rare events).
 
-### 1.3 Bliss’s Beetles Example
+### Bliss’s Beetles Example
 
 This example, taken from Agresti (2002), concerns results of a toxicology experiment originally reported by Bliss (1935). The data report the number of beetles killed after exposure to gaseous carbon disulfide at various concentrations.
 
@@ -192,7 +192,7 @@ Discussion:
 
 -Optional Readings on Testing the Link
 
-## 2 Overdispersion: Correlated Binary Observations
+## Overdispersion: Correlated Binary Observations
 
 In a standard binomial model, we assume that conditional on the success probability (\pi), the individual binary outcomes are **independent**. Under this assumption, $$
 Y \sim \mathrm{Bin}(m, \pi)
@@ -201,7 +201,7 @@ Y \sim \mathrm{Bin}(m, \pi)
 
 In practice, binomial data often exhibit **overdispersion**, meaning that the observed variance of (Y) is larger than the binomial variance. A common explanation is the presence of **unobserved heterogeneity** or **correlation** among the binary trials.
 
-### 2.1 Correlated binary outcomes and intraclass correlation
+### Correlated binary outcomes and intraclass correlation
 
 Suppose $$
 Y = \sum_{j=1}^m Z_j,
@@ -234,7 +234,7 @@ Thus, $$\mathrm{Var}(Y)
 
 When $\rho > 0$, the variance exceeds the binomial variance, producing **overdispersion**. Even small correlations can have a large impact when $m$ is moderate or large.
 
-### 2.2 Mixture models: Beta-binomial models
+### Mixture models: Beta-binomial models
 
 Suppose the success probability (p) itself is random: $p \sim G, \qquad E(p)=\pi,$ and conditional on $p$, $$Z_1,\dots,Z_m \mid p \;\stackrel{\text{i.i.d.}}{\sim}\; \mathrm{Bernoulli}(p).$$
 
