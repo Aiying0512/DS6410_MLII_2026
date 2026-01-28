@@ -7,4 +7,4 @@
 | - | Jan 19 | Mon | MLK Day, No class | |  |
 | 3 | Jan 21 | Wed | Lecture 2. Generalized Linear Models  | |  [Lec 2](slides/Lecture2.pdf)|
 | 4 | Jan 26 | Mon | No inperson-class, Self-reading, homework & lab coding  |[Reading 1](slides/Reading_1.pdf) [Lab 1](slides/Lab1_selflearning.qmd) | [HW 1](assignments/HW1.pdf) |
-| 5 | Jan 28 | Wed | No inperson-class, Lab coding & Zoom for Questions  | [Lab 1-2](slides/Lab1-2.qmd) |  |
+| 5 | Jan 28 | Wed | No inperson-class, Lab coding [Lab 1-2](slides/Lab1-2.qmd) & Zoom for Questions  |  |  |
