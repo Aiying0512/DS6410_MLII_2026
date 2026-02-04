@@ -9,5 +9,5 @@
 | 4 | Jan 26 | Mon | No inperson-class, Self-reading, homework & lab coding  |[Reading 1](slides/Reading_1.pdf) [Lab 1](slides/Lab1_selflearning.qmd) | [HW 1](assignments/HW1.pdf) |
 | 5 | Jan 28 | Wed | No inperson-class, Lab coding ([Lab 1-2](slides/Lab1-2.qmd)) & Zoom for Questions  |  |  |
 | 6 | Feb 2 | Mon | Lecture 3. Moving Beyond Linearity: Basis Expansion | ESL Chap 5 & ISLR Chap 7 | [Lec 3](slides/Lec3.pdf) [Supp Fig](slides/Lec3%20Figs.pptx) |
-| 7 | Feb 4 | Wed | Lecture 4. Additive Models & Trees | ESL Chap 9 |  |
-| 8 | Feb 9 | Mon | Lab 2 |  | In-class Quizz 1, HW1 Due |
+| 7 | Feb 4 | Wed | Lecture 4. Additive Models & Trees | ESL Chap 9 | HW2 |
+| 8 | Feb 9 | Mon | Lec 5.  |  | In-class Quizz 1, HW1 Due |
