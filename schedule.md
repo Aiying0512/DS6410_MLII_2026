@@ -1,7 +1,7 @@
 ## Course Schedule
 
 | Class | Date | Day | Topic | Reading | Notes | Question Set|
-|------:|------|-----|-------|---------------------|-------|
+|------:|------|-----|-------|---------------------|-------|-------|
 | 1 | Jan 13 | Mon | Introduction | Syllabus | Course overview; Download textbooks, software; Review reading material | |
 | 2 | Jan 15 | Wed | Lecture 1. Overview of Supervised Learning | ESL Chap 2 | [Lec 1](slides/Lecture1.pdf) [slides](slides/Lecture1_slides.pdf) | |
 | - | Jan 19 | Mon | MLK Day, No class | |  | |
