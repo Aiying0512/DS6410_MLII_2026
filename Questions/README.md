@@ -1,6 +1,7 @@
 Mini-Presentation Assignment
 
 Time: 5–10 minutes
+
 Goal: Demonstrate conceptual understanding of the topics to be discussed in class.
 
 Your Task
