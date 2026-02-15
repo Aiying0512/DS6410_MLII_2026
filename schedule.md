@@ -11,5 +11,5 @@
 | 6 | Feb 2 | Mon | Lecture 3. Moving Beyond Linearity: Basis Expansion | ESL Chap 5 & ISLR Chap 7 | [Lec 3](slides/Lec3.pdf) [Supp Fig](slides/Lec3%20Figs.pptx) | |
 | 7 | Feb 4 | Wed | Lecture 4. Additive Models & Trees | ESL Chap 9 |  | |
 | 8 | Feb 9 | Mon | Lecture 5. Regularization and Sparsity: From Lasso to Structured Penalties | The paper list provided in Lec 5 | [Lec 5](slides/Lec%205.pdf), In-class Quizz 1, HW1 Due | [Q6](Questions/Questions_0209.pdf)|
-| 9 | Feb 11 | Wed | Lecture 6. Regularization Part II: Parameter Tuning, Inference, and Extensions | The paper list provided in Lec 6 | [Lec 6](slides/Lec6.pdf), HW2 and Questions will be posted by Friday | |
+| 9 | Feb 11 | Wed | Lecture 6. Regularization Part II: Parameter Tuning, Inference, and Extensions | The paper list provided in Lec 6 | [Lec 6](slides/Lec6.pdf), [HW 2](assignments/HW2.pdf) -- Due 03/02  | |
 | 10 | Feb 16 | Mon | Lecture 7. Kernel Methods |  |  | [Mini_pre_Q](Questions/Kernel%20Methods.pdf)|
