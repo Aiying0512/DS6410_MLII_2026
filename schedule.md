@@ -14,3 +14,5 @@
 | 9 | Feb 11 | Wed | Lecture 6. Regularization Part II: Parameter Tuning, Inference, and Extensions | The paper list provided in Lec 6 | [Lec 6](slides/Lec6.pdf), [HW 2](assignments/HW2.pdf) -- Due 03/02  | |
 | 10 | Feb 16 | Mon | Lecture 7. Kernel Methods |  |  [Lec 7](slides/Lec7.pdf)| [Mini_pre_Q](Questions/Kernel%20Methods.pdf)|
 | 11| Feb 18 | Wed | Lecture 8. Kernel Smoothing Methods & Other Kernel-based Methods |  |  [Lec 8](slides/Lec_8.pdf)| |
+| 12| Feb 23 | Mon | Lecture 9. Bagging & Random Forests |  |  [Lec 9](slides/Lec9.pdf)| |
+
