@@ -15,6 +15,6 @@
 | 10 | Feb 16 | Mon | Lecture 7. Kernel Methods |  |  [Lec 7](slides/Lec7.pdf)| [Mini_pre_Q](Questions/Kernel%20Methods.pdf)|
 | 11| Feb 18 | Wed | Lecture 8. Kernel Smoothing Methods & Other Kernel-based Methods |  |  [Lec 8](slides/Lec_8.pdf)| |
 | 12| Feb 23 | Mon | Lecture 9. Bagging & Random Forests |  |  [Lec 9](slides/Lec9.pdf)| |
-| 13| Feb 25 | Wed | Midterm Project Initiation | [Topic 1](https://ashpublications.org/blood/article/140/12/1345/485817/Diagnosis-and-management-of-AML-in-adults-2022) | In-class Quizz 2 |  |
+| 13| Feb 25 | Wed | Midterm Project Initiation | [Topic 1](https://ashpublications.org/blood/article/140/12/1345/485817/Diagnosis-and-management-of-AML-in-adults-2022) [Topic 2](https://www.nature.com/articles/s41467-020-16732-5)| In-class Quizz 2 |  |
 
 
