@@ -17,5 +17,5 @@
 | 12| Feb 23 | Mon | Lecture 9. Bagging & Random Forests |  |  [Lec 9](slides/Lec9.pdf)| |
 | 13| Feb 25 | Wed | [Midterm Project Initiation](slides/DS6410_Midterm_Project_Full_Assignment.pdf) | [Topic Summary](slides/DS6410_Midterm_Topic_Summary.pdf) [Topic 1](https://ashpublications.org/blood/article/140/12/1345/485817/Diagnosis-and-management-of-AML-in-adults-2022) [Topic 2](https://www.nature.com/articles/s41467-020-16732-5)| [In-class Quizz 2](Questions/Quiz2.pdf) [Grading Rubics](slides/DS6410_Midterm_Grading_Rubric.pdf)|  |
 | - | Mar 02 -- Mar 06|  | Spring Break, No class | |  | |
-| 14| Mar 09 | Mon | Lecture 10. Boosting  |  |  [Lec 10](slides/Lec10_Boosting.pdf)| [Mini_pre_Q](Questions/boosting_questions.pdf)|
+| 14| Mar 09 | Mon | Lecture 10. Boosting  | XGBoost |  [Lec 10](slides/Lec10_Boosting.pdf)| [Mini_pre_Q](Questions/boosting_questions.pdf)|
 | 15| Mar 11 | Wed | Lecture 11. Empirical Bayes  |  |  Lec 11, HW3 -- Due 03/24| |
