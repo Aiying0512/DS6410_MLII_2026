@@ -19,3 +19,5 @@
 | - | Mar 02 -- Mar 06|  | Spring Break, No class | |  | |
 | 14| Mar 09 | Mon | Lecture 10. Boosting  | XGBoost |  [Lec 10](slides/Lec10_Boosting.pdf)| [Mini_pre_Q](Questions/boosting_questions.pdf)|
 | 15| Mar 11 | Wed | Lecture 11. Empirical Bayes  | [Statistical Rethinking 02](https://www.youtube.com/watch?v=R1vcdhPBlXA&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=2), ESL Chap 6 |  [Lec 11](slides/Lec11_EB.pdf), HW3 (will release by Mar 12)-- Due 03/24| [Mini_pre_Q](Questions/empirical_bayes.pdf)|
+| 16| Mar 16 | Mon | Lab 2. Ensemble Learning  |  |  | |
+| 17| Mar 18 | Wed | Lab 3. Emipirical Bayes  |  |  | |
