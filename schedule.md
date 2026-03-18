@@ -21,3 +21,5 @@
 | 15| Mar 11 | Wed | Lecture 11. Empirical Bayes  | [Statistical Rethinking 02](https://www.youtube.com/watch?v=R1vcdhPBlXA&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=2), ESL Chap 6 |  [Lec 11](slides/Lec11_EB.pdf), [HW3](assignments/HW3.pdf)-- Due 03/27| [Mini_pre_Q](Questions/empirical_bayes.pdf)|
 | 16| Mar 16 | Mon | [Lab 2. Ensemble Learning](slides/Ensemble_Lab.Rmd)  |  |  | |
 | 17| Mar 18 | Wed | [Lab 3. Emipirical Bayes](slides/bayes_lab.Rmd)  |  |  | |
+| 18| Mar 23 | Mon | Lecture 12. Neural Networks |  |  | [In-class Quizz 3] [Presentation by Habiba]|
+| 19| Mar 25 | Wed | Lab 4. |  |  |  |
