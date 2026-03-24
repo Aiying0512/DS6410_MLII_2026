@@ -91,7 +91,7 @@ This course requires the use of the following statistical and typesetting softwa
 4. **Bishop, C. M.**
    *Pattern Recognition and Machine Learning*
 
-5.Relevant review papers and tutorials provided throughout the semester
+5. Relevant review papers and tutorials provided throughout the semester
 
 ## Course Materials
 - [Course Schedule](schedule.md)
