@@ -88,7 +88,10 @@ This course requires the use of the following statistical and typesetting softwa
    *An Introduction to Statistical Learning*  
    Free online: https://www.statlearning.com/
 
-4. Relevant review papers and tutorials provided throughout the semester
+4. **Bishop, C. M.**
+   *Pattern Recognition and Machine Learning*
+
+5.Relevant review papers and tutorials provided throughout the semester
 
 ## Course Materials
 - [Course Schedule](schedule.md)
@@ -112,7 +115,7 @@ This course requires the use of the following statistical and typesetting softwa
 
 ---
 
-## Topics (Supervised Learning Focus)
+## Topics (Supervised Learning Part)
 
 - Generalized Linear Models
 - Spline Regression and Additive Models
@@ -122,6 +125,26 @@ This course requires the use of the following statistical and typesetting softwa
 - Ensemble Methods (Bagging, Boosting, Model Averaging)
 - Model Assessment (Cross-Validation, Bootstrapping)
 - Introduction to Neural Networks and Deep Learning
+
+## Topics (Unsupervised Learning Part)
+
+- **Dimensionality Reduction**
+  - Principal Component Analysis (PCA)  
+  - Canonical Correlation Analysis (CCA)  
+  - Independent Component Analysis (ICA)  
+
+- **Probabilistic Models**
+  - Mixture models and latent variable models  
+  - Expectation-Maximization (EM) algorithm  
+
+- **Graphical Models**
+  - Bayesian networks  
+  - Markov random fields  
+  - Structure learning and inference  
+
+- **Representation Learning**
+  - Clustering methods  
+  - Latent space interpretation  
 
 ---
 
