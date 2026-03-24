@@ -22,4 +22,4 @@
 | 16| Mar 16 | Mon | [Lab 2. Ensemble Learning](slides/Ensemble_Lab.Rmd)  |  |  | |
 | 17| Mar 18 | Wed | [Lab 3. Emipirical Bayes](slides/bayes_lab.Rmd)  |  |  | |
 | 18| Mar 23 | Mon | [Lecture 12. Neural Networks](slides/Lec12_Neural_Networks.pdf) |  |  | [In-class Quizz 3] [Presentation by Habiba]|
-| 19| Mar 25 | Wed | [Lab 4. Neural Networks](slides/Lab_NeuralNetworks_new.ipynb) [Note](slides/DS6410_Lab_Neural_Networks.pptx) |  |  |  |
+| 19| Mar 25 | Wed | [Lab 4. Neural Networks](slides/Lab_NeuralNetworks_new.ipynb)  |  | [Lecture Note](slides/DS6410_Lab_Neural_Networks.pptx) |  |
