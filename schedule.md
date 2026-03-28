@@ -23,5 +23,5 @@
 | 17| Mar 18 | Wed | [Lab 3. Emipirical Bayes](slides/bayes_lab.Rmd)  |  |  | |
 | 18| Mar 23 | Mon | [Lecture 12. Neural Networks](slides/Lec12_Neural_Networks.pdf) | [Back Propogation](https://www.youtube.com/watch?v=gYpoJMlgyXA&t=824s) |  | [In-class Quizz 3] [Presentation by Habiba]|
 | 19| Mar 25 | Wed | [Lab 4. Neural Networks](slides/Lab_NeuralNetworks_new.ipynb)  |  | [Lecture Note](slides/DS6410_Lab_Neural_Networks.pptx)|
-| 20| Mar 30 | Mon | Guest speaker  | [Reading 1](https://www.neurology.org/doi/abs/10.1212/WNL.0000000000213831), [Reading 2](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz70855_103746) |  | |
-| 21| Apr 1 | Wed |   |  |  | [Presentation by Stefanie]|
+| 20| Mar 30 | Mon | Guest speaker  | [Reading 1](https://www.neurology.org/doi/abs/10.1212/WNL.0000000000213831), [Reading 2](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz70855_103746) |  | [Presentation by Stefanie]|
+| 21| Apr 1 | Wed |   |  |  | |
