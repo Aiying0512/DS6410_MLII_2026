@@ -26,4 +26,4 @@
 | 20| Mar 30 | Mon | Guest speaker, Lecture 13. Intro to Unsupervised Learning  | [Reading 1](https://www.neurology.org/doi/abs/10.1212/WNL.0000000000213831), [Reading 2](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz70855_103746) |  ||
 | 21| Apr 1 | Wed | [Lecture 13. Dimension Reduction and Latent Variables_Basic](slides/Lec13.pdf)  | PRML Chap 12 |  |  [Presentation by Stefanie](Questions/Unsupervised_Learning.pdf)|
 | 22| Apr 6 | Mon | [Lecture 14. Dimension Reduction and Latent Variables_Advanced](slides/Lec14.pdf)  |  |  |  |
-| 23| Apr 8 | Wed | [Lab 4. PCA and its Variations](slides/PCA_Lab_Session.ipynb)  |  | [Lecture Note](slides/Lab_PCA.pdf) [HW4](assignments/HW4.pdf)-- Due 04/22|  |
+| 23| Apr 8 | Wed | [Lab 5. PCA and its Variations](slides/PCA_Lab_Session.ipynb)  |  | [Lecture Note](slides/Lab_PCA.pdf) [HW4](assignments/HW4.pdf)-- Due 04/22|  |
