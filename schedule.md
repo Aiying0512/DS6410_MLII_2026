@@ -28,4 +28,4 @@
 | 22| Apr 6 | Mon | [Lecture 14. Dimension Reduction and Latent Variables_Advanced](slides/Lec14.pdf)  |  |  |  |
 | 23| Apr 8 | Wed | [Lab 5. PCA and its Variations](slides/PCA_Lab_Session.ipynb)  |  | [Lecture Note](slides/Lab_PCA.pdf) [HW4](assignments/HW4.pdf)-- Due 04/22|  |
 | 24| Apr 13 | Mon | [Lab 6. Advanced_Dimension Reduction and Latent Variables](slides/Advanced_Lab_Session.ipynb)  |  | [Lecture Note](slides/Lab_PCA_Advanced.pdf) |  |
-| 25| Apr 15 | Wed | [Lec 15. Graphical Models_Undirected](slides/Lec15_undirected_graphical_models.pdf)  | PRML Chap 8 | |  |
+| 25| Apr 15 | Wed | [Lec 15. Graphical Models_Undirected](slides/Lec15.pdf)  | PRML Chap 8 | |  |
