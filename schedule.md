@@ -30,4 +30,4 @@
 | 24| Apr 13 | Mon | [Lab 6. Advanced_Dimension Reduction and Latent Variables](slides/Advanced_Lab_Session.ipynb)  |  | [Lecture Note](slides/Lab_PCA_Advanced.pdf) |  |
 | 25| Apr 15 | Wed | [Lec 15. Graphical Models_Undirected](slides/Lec15.pdf)  | PRML Chap 8 | |  |
 | 26| Apr 20 | Mon | [Lec 16. Graphical Models_directed](slides/Lec16.pdf)  | PRML Chap 8 | |  |
-| 27| Apr 22 | Wed| [Lab 6. Graphical Models](slides/Lec16.pdf)  |  | [Lecture Note] |  |
+| 27| Apr 22 | Wed| [Lab 6. Graphical Models](slides/Lab_Graphical_Models.Rmd)  |  | [Lecture Note](slides/graph_lab.pptx) |  |
