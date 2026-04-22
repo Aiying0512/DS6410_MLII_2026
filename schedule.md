@@ -24,7 +24,7 @@
 | 18| Mar 23 | Mon | [Lecture 12. Neural Networks](slides/Lec12_Neural_Networks.pdf) | [Back Propogation](https://www.youtube.com/watch?v=gYpoJMlgyXA&t=824s) |  | [In-class Quizz 3] [Presentation by Habiba]|
 | 19| Mar 25 | Wed | [Lab 4. Neural Networks](slides/Lab_NeuralNetworks_new.ipynb)  |  | [Lecture Note](slides/DS6410_Lab_Neural_Networks.pptx)|
 | 20| Mar 30 | Mon | Guest speaker, Lecture 13. Intro to Unsupervised Learning  | [Reading 1](https://www.neurology.org/doi/abs/10.1212/WNL.0000000000213831), [Reading 2](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz70855_103746) |  ||
-| 21| Apr 1 | Wed | [Lecture 13. Dimension Reduction and Latent Variables_Basic](slides/Lec13.pdf)  | PRML Chap 12 |  |  [Presentation by Stefanie](Questions/Unsupervised_Learning.pdf)|
+| 21| Apr 1 | Wed | [Lecture 13. Dimension Reduction and Latent Variables_Basic](slides/Lec%213.pdf)  | PRML Chap 12 |  |  [Presentation by Stefanie](Questions/Unsupervised_Learning.pdf)|
 | 22| Apr 6 | Mon | [Lecture 14. Dimension Reduction and Latent Variables_Advanced](slides/Lec14.pdf)  |  |  |  |
 | 23| Apr 8 | Wed | [Lab 5. PCA and its Variations](slides/PCA_Lab_Session.ipynb)  |  | [Lecture Note](slides/Lab_PCA.pdf) [HW4](assignments/HW4.pdf)-- Due 04/22|  |
 | 24| Apr 13 | Mon | [Lab 6. Advanced_Dimension Reduction and Latent Variables](slides/Advanced_Lab_Session.ipynb)  |  | [Lecture Note](slides/Lab_PCA_Advanced.pdf) |  |
